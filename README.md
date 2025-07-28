@@ -31,7 +31,7 @@ View all repositories → [github.com/thisistayyab?tab=repositories](https://git
 
 ## Let's Connect
 
-- **Portfolio**: [thisistayyab.github.io/My-Portfolio](https://thisistayyab.github.io/My-Portfolio)
+- **Portfolio**: [thisistayyab.github.io/My-Portfolio](https://thisistayyab.vercel.app)
 - **Email**: thisistayyab@outlook.com
 - **LinkedIn**: [linkedin.com/in/thisistayyab](https://linkedin.com/in/thisistayyab)
 
